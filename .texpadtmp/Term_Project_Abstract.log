@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  15 NOV 2015 22:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  16 NOV 2015 20:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -112,32 +112,50 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 7.
+
+LaTeX Warning: Citation `Cannon1989a' on page 1 undefined on input line 7.
+
+
+LaTeX Warning: Citation `Stein2015a' on page 1 undefined on input line 7.
+
 
 (/Users/lukefairchild765/GitHub_files/MCR_subsidence/.texpadtmp/Term_Project_Ab
-stract.bbl) [1
+stract.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (/Users/lukefairchild765/GitHub_files/MCR_subsidence/.texpadtmp/Term_Project_Ab
-stract.aux) ) 
+stract.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 758 strings out of 493089
- 11047 string characters out of 6134842
- 68470 words of memory out of 5000000
- 4294 multiletter control sequences out of 15000+600000
- 7926 words of font info for 28 fonts, out of 8000000 for 9000
+ 762 strings out of 493089
+ 11114 string characters out of 6134842
+ 69467 words of memory out of 5000000
+ 4298 multiletter control sequences out of 15000+600000
+ 8504 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,6n,32p,218b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10
-.pfb>
+ 24i,6n,32p,986b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 Output written on /Users/lukefairchild765/GitHub_files/MCR_subsidence/.texpadtm
-p/Term_Project_Abstract.pdf (1 page, 60343 bytes).
+p/Term_Project_Abstract.pdf (1 page, 83563 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
