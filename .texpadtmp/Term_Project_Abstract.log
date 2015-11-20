@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  17 NOV 2015 01:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  17 NOV 2015 11:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -525,53 +525,39 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 8.
 
-
-LaTeX Warning: Citation `McKenzie1978a' on page 1 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Halls2015a' on page 1 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Nyquist1988a' on page 1 undefined on input line 11.
-
-
 Overfull \hbox (12.04262pt too wide) in paragraph at lines 11--11
 \OT1/cmr/m/n/10.95 chem-i-cal, geochrono-logic and struc-tural mea-sure-ments [
 [], [], [],
  []
 
+[1
 
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (/Users/lukefairchild765/GitHub_files/MCR_subsidence/.texpadtmp/Term_Project_Ab
-stract.bbl [1
-
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) [2]
+stract.bbl) [2]
 (/Users/lukefairchild765/GitHub_files/MCR_subsidence/.texpadtmp/Term_Project_Ab
-stract.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+stract.aux) ) 
 Here is how much of TeX's memory you used:
  9870 strings out of 493089
  219610 string characters out of 6134842
- 219862 words of memory out of 5000000
+ 220926 words of memory out of 5000000
  13339 multiletter control sequences out of 15000+600000
  11544 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,9n,39p,10409b,548s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
-cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-su
+per-ts1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
+.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.p
+fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
 Output written on /Users/lukefairchild765/GitHub_files/MCR_subsidence/.texpadtm
-p/Term_Project_Abstract.pdf (2 pages, 110395 bytes).
+p/Term_Project_Abstract.pdf (2 pages, 112196 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
