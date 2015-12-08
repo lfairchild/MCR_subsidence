@@ -1,71 +1,105 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
 
-\bibitem[{Cannon}, 1989]{Cannon1989a}
-{Cannon}, W.~F. (1989).
-\newblock {The North American midcontinent rift beneath Lake Superior from
-  GLIMPCE seismic reflection profiling}.
-\newblock {\em Tectonics}, 8:305--332.
+\bibitem[{{Cannon}(1989)}]{Cannon1989a}
+{Cannon}, W.~F., 1989, {The North American midcontinent rift beneath Lake
+  Superior from GLIMPCE seismic reflection profiling}: Tectonics, vol.~8, pp.
+  305--332.
 
-\bibitem[Cannon, 1992]{Cannon1992b}
-Cannon, W.~F. (1992).
-\newblock The {Midcontinent rift in the Lake Superior} region with emphasis on
-  its geodynamic evolution.
-\newblock {\em Tectonophysics}, 213(1-2):41--48.
+\bibitem[{Cannon(1992)}]{Cannon1992b}
+Cannon, W.~F., 1992, The {Midcontinent rift in the Lake Superior} region with
+  emphasis on its geodynamic evolution: Tectonophysics, vol. 213, pp. 41--48,
+  \doi{10.1016/0040-1951(92)90250-A}.
 
-\bibitem[Ernst et~al., 2013]{Ernst2013b}
-Ernst, R.~E., Bleeker, W., S{\"o}derlund, U., and Kerr, A.~C. (2013).
-\newblock Large igneous provinces and supercontinents: Toward completing the
-  plate tectonic revolution.
-\newblock {\em Lithos}, 174(0):1--14.
+\bibitem[{Ernst et~al.(2013)Ernst, Bleeker, S{\"o}derlund, and
+  Kerr}]{Ernst2013b}
+Ernst, R.~E., Bleeker, W., S{\"o}derlund, U., and Kerr, A.~C., 2013, Large
+  igneous provinces and supercontinents: Toward completing the plate tectonic
+  revolution: Lithos, vol. 174, pp. 1--14,
+  \doi{http://dx.doi.org/10.1016/j.lithos.2013.02.017},
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0024493713000571}.
 
-\bibitem[Halls et~al., 2015]{Halls2015a}
-Halls, H.~C., Lovette, A., Hamilton, M., and S{\"o}derlund, U. (2015).
-\newblock A paleomagnetic and u--pb geochronology study of the western end of
-  the grenville dyke swarm: Rapid changes in paleomagnetic field direction at
-  ca. 585\&{\#}xa0;ma related to polarity reversals?
-\newblock {\em Precambrian Research}, 257(0):137--166.
+\bibitem[{Halls et~al.(2015)Halls, Lovette, Hamilton, and
+  S{\"o}derlund}]{Halls2015a}
+Halls, H.~C., Lovette, A., Hamilton, M., and S{\"o}derlund, U., 2015, A
+  paleomagnetic and u--pb geochronology study of the western end of the
+  grenville dyke swarm: Rapid changes in paleomagnetic field direction at ca.
+  585\&{\#}xa0;ma related to polarity reversals?: Precambrian Research, vol.
+  257, pp. 137--166, \doi{http://dx.doi.org/10.1016/j.precamres.2014.11.029},
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0301926814004434}.
 
-\bibitem[Hutchinson et~al., 1990]{Hutchinson1990a}
-Hutchinson, D., White, R., Cannon, W., and Schulz, K. (1990).
-\newblock Keweenaw hot spot: Geophysical evidence for a 1.1 ga mantle plume
-  beneath the midcontinent rift system.
-\newblock {\em Journal of Geophysical Research: Solid Earth (1978--2012)},
-  95(B7):10869--10884.
+\bibitem[{Hutchinson et~al.(1990)Hutchinson, White, Cannon, and
+  Schulz}]{Hutchinson1990a}
+Hutchinson, D., White, R., Cannon, W., and Schulz, K., 1990, Keweenaw hot spot:
+  Geophysical evidence for a 1.1 ga mantle plume beneath the midcontinent rift
+  system: Journal of Geophysical Research: Solid Earth (1978--2012), vol.~95,
+  pp. 10,869--10,884.
 
-\bibitem[Mc{K}enzie, 1978]{McKenzie1978a}
-Mc{K}enzie, D. (1978).
-\newblock Some remarks on the development of sedimentary basins.
-\newblock {\em Earth and Planetary Science Letters}, 40:25--32.
+\bibitem[{Mc{K}enzie(1978)}]{McKenzie1978a}
+Mc{K}enzie, D., 1978, Some remarks on the development of sedimentary basins:
+  Earth and Planetary Science Letters, vol.~40, pp. 25--32.
 
-\bibitem[Nyquist and Wang, 1988]{Nyquist1988a}
-Nyquist, J.~E. and Wang, H.~F. (1988).
-\newblock Flexural modeling of the midcontinent rift.
-\newblock {\em Journal of Geophysical Research: Solid Earth},
-  93(B8):8852--8868.
+\bibitem[{Nyquist and Wang(1988)}]{Nyquist1988a}
+Nyquist, J.~E. and Wang, H.~F., 1988, Flexural modeling of the midcontinent
+  rift: Journal of Geophysical Research: Solid Earth, vol.~93, pp. 8852--8868,
+  \doi{10.1029/JB093iB08p08852},
+  \urlprefix\url{http://dx.doi.org/10.1029/JB093iB08p08852}.
 
-\bibitem[Stein et~al., 2015]{Stein2015a}
-Stein, C.~A., Kley, J., Stein, S., Hindle, D., and Keller, G.~R. (2015).
-\newblock North america's midcontinent rift: When rift met lip.
-\newblock {\em Geosphere}.
+\bibitem[{Stein et~al.(2015)Stein, Kley, Stein, Hindle, and
+  Keller}]{Stein2015a}
+Stein, C.~A., Kley, J., Stein, S., Hindle, D., and Keller, G.~R., 2015, North
+  america's midcontinent rift: When rift met lip: Geosphere,
+  \urlprefix\url{http://geosphere.gsapubs.org/content/early/2015/08/13/GES01183.1.abstract
+  N2 - Rifts are segmented linear depressions that are filled with sedimentary
+  and igneous rocks; they form by extension and often evolve into plate
+  boundaries. Flood basalts, a class of large igneous provinces (LIPs), are
+  broad regions of extensive volcanism formed by sublithospheric processes.
+  Typical rifts are not filled with flood basalts, and typical flood basalts
+  are not associated with significant crustal extension and faulting. North
+  America's Midcontinent Rift (MCR) is an unusual combination, because its
+  3000-km length formed during a continental breakup event 1.1 Ga, but it
+  contains an enormous volume of igneous rocks that are mostly flood basalt. We
+  show that MCR volcanic rocks are significantly thicker than other flood
+  basalts, due to their deposition in a narrow rift rather than across a broad
+  region, giving the MCR a rift's geometry but a LIP's magma volume. Structural
+  modeling of seismic-reflection data shows that LIP volcanics were deposited
+  during two phases—an initial rift phase where flood basalts filled a
+  fault-controlled extending basin and a postrift phase where LIP volcanics and
+  sediments were deposited in a thermally subsiding sag basin without
+  associated faulting. The crust thinned during the initial rifting phase and
+  then rethickened during the postrift phase and later compression, yielding
+  the present thicker crust observed seismologically. The restriction of
+  extension to a single normal fault in each rift segment, steeply
+  inward-dipping rift shoulders with sharp hinges, and persistence of volcanism
+  after rifting ended gave rise to a deep flood basalt–filled rift geometry
+  not observed in other presently active or ancient rifts. The unusual
+  coincidence of a rift and LIP arose when a new rift associated with
+  continental breakup interacted with a mantle plume or overrode anomalously
+  hot or fertile upper mantle.}
 
-\bibitem[Stein et~al., 2014]{Stein2014a}
+\bibitem[{Stein et~al.(2014)Stein, Stein, Merino, Randy~Keller, Flesch, and
+  Jurdy}]{Stein2014a}
 Stein, C.~A., Stein, S., Merino, M., Randy~Keller, G., Flesch, L.~M., and
-  Jurdy, D.~M. (2014).
-\newblock Was the midcontinent rift part of a successful seafloor-spreading
-  episode?
-\newblock {\em Geophysical Research Letters}, page 2013GL059176.
+  Jurdy, D.~M., 2014, Was the midcontinent rift part of a successful
+  seafloor-spreading episode?: Geophysical Research Letters, p. 2013GL059176,
+  \doi{10.1002/2013GL059176},
+  \urlprefix\url{http://dx.doi.org/10.1002/2013GL059176}.
 
-\bibitem[White and McKenzie, 1989]{White1989a}
-White, R. and McKenzie, D. (1989).
-\newblock Magmatism at rift zones: the generation of volcanic continental
-  margins and flood basalts.
-\newblock {\em Journal of Geophysical Research: Solid Earth (1978--2012)},
-  94(B6):7685--7729.
+\bibitem[{White and McKenzie(1989)}]{White1989a}
+White, R. and McKenzie, D., 1989, Magmatism at rift zones: the generation of
+  volcanic continental margins and flood basalts: Journal of Geophysical
+  Research: Solid Earth (1978--2012), vol.~94, pp. 7685--7729.
 
-\bibitem[White, 1997]{White1997a}
-White, R.~S. (1997).
-\newblock Mantle temperature and lithospheric thinning beneath the midcontinent
-  rift system: evidence from magmatism and subsidence.
-\newblock {\em Canadian Journal of Earth Sciences}, 34(4):464--475.
+\bibitem[{White(1997)}]{White1997a}
+White, R.~S., 1997, Mantle temperature and lithospheric thinning beneath the
+  midcontinent rift system: evidence from magmatism and subsidence: Canadian
+  Journal of Earth Sciences, vol.~34, pp. 464--475, \doi{10.1139/e17-038},
+  \urlprefix\url{http://dx.doi.org/10.1139/e17-038}.
 
 \end{thebibliography}
