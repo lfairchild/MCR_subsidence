@@ -1,4 +1,4 @@
-\begin{thebibliography}{11}
+\begin{thebibliography}{9}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -17,6 +17,10 @@ Cannon, W.~F., 1992, The {Midcontinent rift in the Lake Superior} region with
   emphasis on its geodynamic evolution: Tectonophysics, vol. 213, pp. 41--48,
   \doi{10.1016/0040-1951(92)90250-A}.
 
+\bibitem[{Cannon and Hinze(1992)}]{Cannon1992a}
+Cannon, W.~F. and Hinze, W.~J., 1992, Speculations on the origin of the north
+  american midcontinent rift: Tectonophysics, vol. 213, pp. 49--55.
+
 \bibitem[{Ernst et~al.(2013)Ernst, Bleeker, S{\"o}derlund, and
   Kerr}]{Ernst2013b}
 Ernst, R.~E., Bleeker, W., S{\"o}derlund, U., and Kerr, A.~C., 2013, Large
@@ -25,31 +29,12 @@ Ernst, R.~E., Bleeker, W., S{\"o}derlund, U., and Kerr, A.~C., 2013, Large
   \doi{http://dx.doi.org/10.1016/j.lithos.2013.02.017},
   \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0024493713000571}.
 
-\bibitem[{Halls et~al.(2015)Halls, Lovette, Hamilton, and
-  S{\"o}derlund}]{Halls2015a}
-Halls, H.~C., Lovette, A., Hamilton, M., and S{\"o}derlund, U., 2015, A
-  paleomagnetic and u--pb geochronology study of the western end of the
-  grenville dyke swarm: Rapid changes in paleomagnetic field direction at ca.
-  585\&{\#}xa0;ma related to polarity reversals?: Precambrian Research, vol.
-  257, pp. 137--166, \doi{http://dx.doi.org/10.1016/j.precamres.2014.11.029},
-  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0301926814004434}.
-
 \bibitem[{Hutchinson et~al.(1990)Hutchinson, White, Cannon, and
   Schulz}]{Hutchinson1990a}
 Hutchinson, D., White, R., Cannon, W., and Schulz, K., 1990, Keweenaw hot spot:
   Geophysical evidence for a 1.1 ga mantle plume beneath the midcontinent rift
   system: Journal of Geophysical Research: Solid Earth (1978--2012), vol.~95,
   pp. 10,869--10,884.
-
-\bibitem[{Mc{K}enzie(1978)}]{McKenzie1978a}
-Mc{K}enzie, D., 1978, Some remarks on the development of sedimentary basins:
-  Earth and Planetary Science Letters, vol.~40, pp. 25--32.
-
-\bibitem[{Nyquist and Wang(1988)}]{Nyquist1988a}
-Nyquist, J.~E. and Wang, H.~F., 1988, Flexural modeling of the midcontinent
-  rift: Journal of Geophysical Research: Solid Earth, vol.~93, pp. 8852--8868,
-  \doi{10.1029/JB093iB08p08852},
-  \urlprefix\url{http://dx.doi.org/10.1029/JB093iB08p08852}.
 
 \bibitem[{Stein et~al.(2015)Stein, Kley, Stein, Hindle, and
   Keller}]{Stein2015a}
