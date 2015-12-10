@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Term_Paper.aux
 The style file: ../gsabull.bst
 Database file #1: ../../../references/allrefs.bib
-You've used 9 entries,
+You've used 14 entries,
             2887 wiz_defined-function locations,
-            674 strings with 8821 characters,
-and the built_in function-call counts, 9581 in all, are:
-= -- 1123
-> -- 238
-< -- 20
-+ -- 130
-- -- 78
-* -- 508
-:= -- 1011
-add.period$ -- 9
-call.type$ -- 9
-change.case$ -- 71
-chr.to.int$ -- 9
-cite$ -- 9
-duplicate$ -- 977
-empty$ -- 517
-format.name$ -- 103
-if$ -- 1970
+            717 strings with 8122 characters,
+and the built_in function-call counts, 15449 in all, are:
+= -- 1837
+> -- 374
+< -- 33
++ -- 210
+- -- 123
+* -- 807
+:= -- 1599
+add.period$ -- 14
+call.type$ -- 14
+change.case$ -- 111
+chr.to.int$ -- 14
+cite$ -- 14
+duplicate$ -- 1592
+empty$ -- 822
+format.name$ -- 161
+if$ -- 3179
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 86
-newline$ -- 36
-num.names$ -- 36
-pop$ -- 352
+missing$ -- 136
+newline$ -- 51
+num.names$ -- 56
+pop$ -- 598
 preamble$ -- 1
-purify$ -- 62
+purify$ -- 97
 quote$ -- 0
-skip$ -- 604
+skip$ -- 965
 stack$ -- 0
-substring$ -- 512
-swap$ -- 843
-text.length$ -- 15
+substring$ -- 833
+swap$ -- 1394
+text.length$ -- 25
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 81
+type$ -- 126
 warning$ -- 0
-while$ -- 55
+while$ -- 88
 width$ -- 0
-write$ -- 114
+write$ -- 173

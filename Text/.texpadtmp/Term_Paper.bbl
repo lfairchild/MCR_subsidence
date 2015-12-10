@@ -1,4 +1,4 @@
-\begin{thebibliography}{9}
+\begin{thebibliography}{14}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -6,6 +6,14 @@
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
+
+\bibitem[{Behrendt et~al.(1990)Behrendt, Hutchinson, Lee, Thornber, Tr{\`E}hu,
+  Cannon, and Green}]{Behrendt1990a}
+Behrendt, J.~C., Hutchinson, D.~R., Lee, M., Thornber, C.~R., Tr{\`E}hu, A.,
+  Cannon, W., and Green, A., 1990, Glimpce seismic reflection evidence of
+  deep-crustal and upper-mantle intrusions and magmatic underplating associated
+  with the midcontinent rift system of north america: Tectonophysics, vol. 173,
+  pp. 595--615.
 
 \bibitem[{{Cannon}(1989)}]{Cannon1989a}
 {Cannon}, W.~F., 1989, {The North American midcontinent rift beneath Lake
@@ -16,6 +24,11 @@
 Cannon, W.~F., 1992, The {Midcontinent rift in the Lake Superior} region with
   emphasis on its geodynamic evolution: Tectonophysics, vol. 213, pp. 41--48,
   \doi{10.1016/0040-1951(92)90250-A}.
+
+\bibitem[{Cannon(1994)}]{Cannon1994a}
+Cannon, W.~F., 1994, Closing of the midcontinent rift-a far---field effect of
+  grenvillian compression: Geology, vol.~22, pp. 155--158,
+  \urlprefix\url{http://geology.gsapubs.org/content/22/2/155.abstract}.
 
 \bibitem[{Cannon and Hinze(1992)}]{Cannon1992a}
 Cannon, W.~F. and Hinze, W.~J., 1992, Speculations on the origin of the north
@@ -36,37 +49,21 @@ Hutchinson, D., White, R., Cannon, W., and Schulz, K., 1990, Keweenaw hot spot:
   system: Journal of Geophysical Research: Solid Earth (1978--2012), vol.~95,
   pp. 10,869--10,884.
 
+\bibitem[{Mc{K}enzie(1978)}]{McKenzie1978a}
+Mc{K}enzie, D., 1978, Some remarks on the development of sedimentary basins:
+  Earth and Planetary Science Letters, vol.~40, pp. 25--32.
+
+\bibitem[{Nyquist and Wang(1988)}]{Nyquist1988a}
+Nyquist, J.~E. and Wang, H.~F., 1988, Flexural modeling of the midcontinent
+  rift: Journal of Geophysical Research: Solid Earth, vol.~93, pp. 8852--8868,
+  \doi{10.1029/JB093iB08p08852},
+  \urlprefix\url{http://dx.doi.org/10.1029/JB093iB08p08852}.
+
 \bibitem[{Stein et~al.(2015)Stein, Kley, Stein, Hindle, and
   Keller}]{Stein2015a}
 Stein, C.~A., Kley, J., Stein, S., Hindle, D., and Keller, G.~R., 2015, North
   america's midcontinent rift: When rift met lip: Geosphere,
-  \urlprefix\url{http://geosphere.gsapubs.org/content/early/2015/08/13/GES01183.1.abstract
-  N2 - Rifts are segmented linear depressions that are filled with sedimentary
-  and igneous rocks; they form by extension and often evolve into plate
-  boundaries. Flood basalts, a class of large igneous provinces (LIPs), are
-  broad regions of extensive volcanism formed by sublithospheric processes.
-  Typical rifts are not filled with flood basalts, and typical flood basalts
-  are not associated with significant crustal extension and faulting. North
-  America's Midcontinent Rift (MCR) is an unusual combination, because its
-  3000-km length formed during a continental breakup event 1.1 Ga, but it
-  contains an enormous volume of igneous rocks that are mostly flood basalt. We
-  show that MCR volcanic rocks are significantly thicker than other flood
-  basalts, due to their deposition in a narrow rift rather than across a broad
-  region, giving the MCR a rift's geometry but a LIP's magma volume. Structural
-  modeling of seismic-reflection data shows that LIP volcanics were deposited
-  during two phases—an initial rift phase where flood basalts filled a
-  fault-controlled extending basin and a postrift phase where LIP volcanics and
-  sediments were deposited in a thermally subsiding sag basin without
-  associated faulting. The crust thinned during the initial rifting phase and
-  then rethickened during the postrift phase and later compression, yielding
-  the present thicker crust observed seismologically. The restriction of
-  extension to a single normal fault in each rift segment, steeply
-  inward-dipping rift shoulders with sharp hinges, and persistence of volcanism
-  after rifting ended gave rise to a deep flood basalt–filled rift geometry
-  not observed in other presently active or ancient rifts. The unusual
-  coincidence of a rift and LIP arose when a new rift associated with
-  continental breakup interacted with a mantle plume or overrode anomalously
-  hot or fertile upper mantle.}
+  \urlprefix\url{http://geosphere.gsapubs.org/content/early/2015/08/13/GES01183.1.abstract}.
 
 \bibitem[{Stein et~al.(2014)Stein, Stein, Merino, Randy~Keller, Flesch, and
   Jurdy}]{Stein2014a}
@@ -75,6 +72,12 @@ Stein, C.~A., Stein, S., Merino, M., Randy~Keller, G., Flesch, L.~M., and
   seafloor-spreading episode?: Geophysical Research Letters, p. 2013GL059176,
   \doi{10.1002/2013GL059176},
   \urlprefix\url{http://dx.doi.org/10.1002/2013GL059176}.
+
+\bibitem[{Swanson-Hysell et~al.(2014)Swanson-Hysell, Burgess, Maloof, and
+  Bowring}]{Swanson-Hysell2014a}
+Swanson-Hysell, N.~L., Burgess, S.~D., Maloof, A.~C., and Bowring, S.~A., 2014,
+  Magmatic activity and plate motion during the latent stage of {M}idcontinent
+  {R}ift development: Geology, vol.~42, pp. 475--478, \doi{10.1130/G35271.1}.
 
 \bibitem[{White and McKenzie(1989)}]{White1989a}
 White, R. and McKenzie, D., 1989, Magmatism at rift zones: the generation of

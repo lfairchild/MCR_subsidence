@@ -1,4 +1,4 @@
-\documentclass[11pt,letterpaper]{article}
+\documentclass[12pt,letterpaper]{article}
 
 %\usepackage{fontspec}
 %\usepackage[utf8]{inputenc}
@@ -22,7 +22,7 @@
 \topmargin = 0.0 in
 \headheight = 0.0 in
 \headsep = 0.5 in
-\parskip = 0.1 in
+\parskip = 0.05 in
 \parindent = 0.1in
 
 % Bold the 'Figure #' in the caption and separate it from the title/caption with a period
@@ -58,10 +58,21 @@
 \usepackage[a4paper, margin=1.0in]{geometry}
 \usepackage{siunitx}
 \usepackage{textcomp}
-\title{Modeling the flexural and thermal subsidence of the 1.1 Ga Midcontinent Rift}
-\author{Luke Fairchild}
-\begin{document}
-\maketitle{}
+
+\begin{document}\thispagestyle{empty}
+\begin{flushleft}
+{\Large \textbf{Modeling the flexural and thermal subsidence of the 1.1 Ga Midcontinent Rift}}\\
+\vspace{0.3em}
+Luke Fairchild, EPS 108 Term Paper --- 12/15/2015
+%Luke M. Fairchild\textsuperscript{1,2},
+%Nicholas L. Swanson-Hysell\textsuperscript{1},
+%Sonia M. Tikoo\textsuperscript{1,3}
+%\title{Modeling the flexural and thermal subsidence of the 1.1 Ga Midcontinent Rift}
+%\author{Luke Fairchild}
+%\begin{document}
+%\maketitle{}
+\end{flushleft}
+
 \begin{abstract}
 The Midcontinent Rift (MCR) is a failed rift system that formed within the interior craton of Laurentia (Mesoproterozoic North America) and was active from $\sim$1110 to 1084 Ma. The MCR is notable in both its total volcanic output, which qualifies it as a large igenous province ($\geq$\SI{e5}{km^3} by the criterion of Ernst et al., 2013\nocite{Ernst2013b}), and its geometry, which qualifies it as a rift system. These two characteristics, while present together in the MCR, are not typically associated with each other as they are thought to derive from separate mechanisms. The MCR is therefore of great interest from a standpoint of geodynamics. No consensus has yet been reached on the geodynamic evolution and tectonic history of this ancient system.\par
 %While the volume of volcanic rock in the MCR ($\sim$1-\SI{2e6}{km^3}; \cite{Hutchinson1990a}) necessitates a mantle plume origin, it is unclear whether the plume had any role in the initiation of the rift itself. Recent studies suggest that the MCR formed in response to far-field tectonic stresses as Amazonia rifted from Laurentia, and ended once oceanic spreading between the two continents was successfully established \cite{Stein2014a}. This hypothesis further interprets the MCR as a rift system that coincidentally encountered a mantle plume capable of generating LIP flood basalts, consistent with the idea that the small temperature perturbations ($\sim$100-150\textdegree\ C above normal mantle temperatures) of hotspots can dramatically amplify the decompression magmatism of rift zones \cite{White1989a}. In order to resolve the broad-scale geodynamics of this LIP/rift duality, it becomes important to better understand the wholesale development of the MCR.\par{}
@@ -69,8 +80,22 @@ A widely accepted timeline of MCR development has been inferred through seismic,
 \end{abstract}
 
 \section*{INTRODUCTION}
-The Mesoproterozoic Midcontinent Rift (MCR) is the most prominent feature on gravity and magnetic maps of North America. The MCR primarily consists of thick flood basalt successions confined to a narrow zone extending northward from the Midwestern United States and looping back southward through Michigan, U.S. The origin of the MCR is an outstanding question in its scientific investigation. While the volume of volcanic rock in the MCR ($\sim$1-\SI{2e6}{km^3}; \cite{Hutchinson1990a}) necessitates a mantle plume origin, it is unclear whether the plume had any role in the initiation of the rift itself. Recent studies suggest that the MCR formed in response to far-field tectonic stresses as Amazonia rifted from Laurentia, and ended once oceanic spreading between the two continents was successfully established \cite{Stein2014a}. This hypothesis (of an already active rift encountering a mantle plume by chance) is consistent with the idea that the small temperature perturbations ($\sim$100-150\textdegree\ C above normal mantle temperatures) of hotspots can dramatically amplify the decompression magmatism of rift zones \citep{White1989a}. Constraining the geodynamic evolution of the MCR is critical for evaluating such hypotheses and understanding the interaction of continental rifting with a mantle plume.\par
-\cite{Cannon1992a} used seismic data across Lake Superior to map the structure of the MCR and infer discrete stages of faulting and volcanism. This resulted in what is now generally accepted as the timeline of the MCR's geodynamic evolution. At $\sim$1110 Ma, rifting and incipient volcanism occur, followed by an outburst of ``main" stage flood basalts confined to the central graben until $\sim$1095 Ma. Continued volcanism until the end of rifting at 1085 Ma results in flexural subsidence and sedimentation. While it has been proposed that crustal thickening also occurred during this last stage of rifting \citep{Stein2015a}, it is unclear whether any significant thermal subsidence would have been prevented by the upwelling mantle plume \citep{White1997a}. 
+The Mesoproterozoic Midcontinent Rift (MCR) is the most prominent feature on gravity and magnetic maps of North America. The MCR primarily consists of thick flood basalt successions confined to a narrow zone extending northward from the Midwestern United States and looping back southward through Michigan, U.S. The origin of the MCR is an outstanding question in scientific investigations of this feature. While the volume of volcanic rock in the MCR ($\sim$1-\SI{2e6}{km^3}; Hutchinson et al., 1990\nocite{Hutchinson1990a}) necessitates a mantle plume origin, it is unclear whether the plume had any role in the initiation of the rift itself. Recent studies suggest that the MCR formed in response to far-field tectonic stresses as Amazonia rifted from Laurentia, and ended once oceanic spreading between the two continents was successfully established \cite{Stein2014a}. This hypothesis (of an already active rift encountering a mantle plume by chance) is consistent with the idea that the small temperature perturbations ($\sim$100-150\textdegree\ C above normal mantle temperatures) of hotspots can dramatically amplify the decompression magmatism of rift zones \citep{White1989a}. Constraining the geodynamic evolution of the MCR is critical for evaluating such hypotheses and understanding the interaction of continental rifting with a mantle plume.\par
+
+\cite{Cannon1992a} used seismic data across Lake Superior to map the structure of the MCR and infer discrete stages of faulting and volcanism. The results of this study are generally accepted as the timeline of the MCR's geodynamic evolution, which are outlined here. At $\sim$1110 Ma, rifting and incipient volcanism occurred, followed by an outburst of ``main" stage flood basalts confined to the central graben until $\sim$1095 Ma. Continued ``late" stage volcanism resulted in flexural subsidence and subsequent sedimentation. While it has been proposed that crustal thickening also occurred during this last stage of rifting \citep{Stein2015a}, it is unclear whether any significant thermal subsidence would have been prevented or delayed by the elevated temperatures and forces of an upwelling mantle plume \citep{White1997a}. Rifting ended at $\sim$1085 due to either far-field tectonic stresses (both compressional and extensional events have been proposed; \cite{Stein2014a,Cannon1994a}) or the dissipation or relocation of the mantle plume source in the presence of fast plate tectonic rates \citep{Swanson-Hysell2014a}. By this time, thermal subsidence would have certainly been underway. The cumulative post-rift subsidence in the MCR would have dramatically altered the surface long after the rifting had actually ceased, a factor that must be considered in interpretations of the rift's evolution and tectonic setting.\par
+
+Constraining this post-rift stage of MCR development is paramount to a comprehensive understanding of this unique geologic feature. Additionally, in the absence of coherent age constraints on MCR sediments, quantifying expected subsidence and associated sedimentation in the MCR could allow a better understanding of syn- and post-rift sedimentary sequences and the timeframe and geologic context of their deposition.\par
+
+\section*{PREVIOUS STUDIES}
+\subsection*{Lithospheric Loading and Flexure}
+\cite{Nyquist1988a} approximated the amount of flexural subsidence in the MCR using seismic data from the southwest limb of the MCR. They were able to satisfactorily describe flexure interpretted from seismic data using a thin-plate model deflected by a line load. Data were matched reasonably well with both broken and unbroken plate models, although each required a slightly different elastic thickness. Surface loading of post-rift sediments and extrusive volcanics were not sufficient to produce the observed flexure, so \cite{Nyquist1988a} hypothesized the presence of a large central volcanic plug emplaced during rifting that provided the most dramatic lithospheric loading.\par
+
+\cite{Nyquist1988a} remain the most direct treatment of flexural subsidence in the MCR. However, their data is isolated to a small arm of the rift that has poor surface exposure and is (arguably) not entirely characterisitic of the rift as a whole. It would be preferable to conduct a similar study using developed seismic data \citep{Behrendt1990a} from what is considered to be the main rift basin across Lake Superior, also where MCR volcanics are best exposed.\par
+
+\subsection*{Thermal Subsidence} 
+The thermal subsidence of the MCR is highly dependent on mantle temperature since it is essentially a feature of conductive cooling. As significant conductive cooling and subisidence in the region would likely have required the shutoff of tensional stresses or the relocation of the underlying mantle plume, thermal subsidence in the MCR is considered to be largely confined to the later stages of the rift. Using REE inversion techniques to estimate the changing melting depths of distinct volcanic sequences in the MCR, \cite{White1997a} estimated the total lithospheric thinning that occurred during. In accordance with the thermal subsidence model of \cite{McKenzie1978a}, \cite{White1997a} estimates a $\beta$ stretching factor of 6 in the MCR and elevated mantle temperatures of 1550\textdegree C. 
+
+
 
 
 
@@ -78,7 +103,7 @@ The Mesoproterozoic Midcontinent Rift (MCR) is the most prominent feature on gra
 %A widely accepted timeline of MCR development has been inferred through seismic, geochemical, geochronologic and structural measurements \cite{Cannon1989a,Cannon1992b,White1997a,Stein2015a}. However, the post-rift thermal subsidence of the MCR and the development of the resulting sedimentary basin remains a more complicated and contentious storyline. This post-rift stage of final development is critical to inferring past structure from present observations. White (1997)\nocite{White1997a} inferred melting depth from REE inversion techniques, estimating that the lithosphere thinned from an original crustal thickness of 40 km with a $\beta$ stretching factor of 6 \cite{McKenzie1978a}. Significant thermal subsidence in the MCR would likely have been delayed until the hot, buoyant plume source died off, minimizing the subsidence that did occur before its interruption by the $\sim$1080 Ma Grenville Orogeny \cite{White1997a}. The magnitude of the Grenville compressional event may have been underestimated, as new paleomagnetic data suggest a total of 4000 km of crustal shortening \cite{Halls2015a}. Previous models of MCR subsidence should be reevaluated in this context. Flexural models of the MCR, e.g. \cite{Nyquist1988a}, should also be revisited with considerations of longer wavelength loading, potentially greater erosion levels of the surface load, and/or possible correlation between flexural bulges susceptible to erosion and stratigraphic unconformities in the MCR.\par{}
 %This study will compile and review the estimates of past investigations of MCR subsidence as well as its broader developmental timeline. This will hopefully allow a comprehensive view of a multifaceted problem, similar to the overview presented by Stein et al. (2015) but with a more quantitative treatment of the MCR's subsidence history. I hope to update certain parameters of past models and reevaluate them in the context of recent work on the MCR. Just as White (1997) showed a buoyant plume and the syn-rift crustal upwarping to likely be responsible for the limited thermal subsidence in the MCR, a thorough review of MCR syn- and post-rift development could prove to have important implications for the larger scale geodynamics of this ancient volcanic structure.
 
-
+\footnotesize
 \bibliographystyle{gsabull}
 \bibliography{../../references/allrefs}
 
