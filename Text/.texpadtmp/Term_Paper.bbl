@@ -1,4 +1,4 @@
-\begin{thebibliography}{14}
+\begin{thebibliography}{17}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -34,6 +34,14 @@ Cannon, W.~F., 1994, Closing of the midcontinent rift-a far---field effect of
 Cannon, W.~F. and Hinze, W.~J., 1992, Speculations on the origin of the north
   american midcontinent rift: Tectonophysics, vol. 213, pp. 49--55.
 
+\bibitem[{Craddock et~al.(2013)Craddock, Konstantinou, Vervoort, Wirth,
+  Davidson, Finley-Blasi, Juda, and Walker}]{Craddock2013a}
+Craddock, J.~P., Konstantinou, A., Vervoort, J.~D., Wirth, K.~R., Davidson, C.,
+  Finley-Blasi, L., Juda, N.~A., and Walker, E., 2013, Detrital zircon
+  provenance of the mesoproterozoic midcontinent rift, lake superior region,
+  u.s.a.: The Journal of Geology, vol. 121, pp. pp. 57--73,
+  \urlprefix\url{http://www.jstor.org/stable/10.1086/668635}.
+
 \bibitem[{Ernst et~al.(2013)Ernst, Bleeker, S{\"o}derlund, and
   Kerr}]{Ernst2013b}
 Ernst, R.~E., Bleeker, W., S{\"o}derlund, U., and Kerr, A.~C., 2013, Large
@@ -41,6 +49,15 @@ Ernst, R.~E., Bleeker, W., S{\"o}derlund, U., and Kerr, A.~C., 2013, Large
   revolution: Lithos, vol. 174, pp. 1--14,
   \doi{http://dx.doi.org/10.1016/j.lithos.2013.02.017},
   \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0024493713000571}.
+
+\bibitem[{Halls et~al.(2015)Halls, Lovette, Hamilton, and
+  S{\"o}derlund}]{Halls2015a}
+Halls, H.~C., Lovette, A., Hamilton, M., and S{\"o}derlund, U., 2015, A
+  paleomagnetic and u--pb geochronology study of the western end of the
+  grenville dyke swarm: Rapid changes in paleomagnetic field direction at ca.
+  585\&{\#}xa0;ma related to polarity reversals?: Precambrian Research, vol.
+  257, pp. 137--166, \doi{http://dx.doi.org/10.1016/j.precamres.2014.11.029},
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0301926814004434}.
 
 \bibitem[{Hutchinson et~al.(1990)Hutchinson, White, Cannon, and
   Schulz}]{Hutchinson1990a}
@@ -58,6 +75,11 @@ Nyquist, J.~E. and Wang, H.~F., 1988, Flexural modeling of the midcontinent
   rift: Journal of Geophysical Research: Solid Earth, vol.~93, pp. 8852--8868,
   \doi{10.1029/JB093iB08p08852},
   \urlprefix\url{http://dx.doi.org/10.1029/JB093iB08p08852}.
+
+\bibitem[{Ojakangas et~al.(2001)Ojakangas, Morey, and Green}]{Ojakangas2001a}
+Ojakangas, R.~W., Morey, G.~B., and Green, J.~C., 2001, {The Mesoproterozoic
+  Midcontinent Rift System, Lake Superior Region, USA}: Sedimentary Geology,
+  vol. 141-142, pp. 421--442.
 
 \bibitem[{Stein et~al.(2015)Stein, Kley, Stein, Hindle, and
   Keller}]{Stein2015a}
