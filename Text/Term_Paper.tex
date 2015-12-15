@@ -14,11 +14,12 @@
 \usepackage{graphicx}
 \usepackage{wrapfig}
 \usepackage{hyperref}
+\usepackage{float}
 %\doublespacing
 
 \raggedright
 \textwidth = 6.5 in
-\textheight = 8.25 in
+\textheight = 8.0 in
 \oddsidemargin = 0.0 in
 \evensidemargin = 0.0 in
 \topmargin = 0.0 in
@@ -57,7 +58,7 @@
 
 
 %\documentclass[12pt,a4paper]{article}
-\usepackage[a4paper, margin=1.0in]{geometry}
+\usepackage[a4paper, margin=0.75in]{geometry}
 \usepackage{siunitx}
 \usepackage{textcomp}
 
@@ -109,26 +110,27 @@ Constraining this post-rift stage of MCR development is paramount to a comprehen
 
 Using the material parameters of \cite{Nyquist1988a} unchanged (see Appendix for values), I calculated lithospheric flexure in the MCR assuming a line load (Fig. \ref{fig:flex_sub}). \cite{Nyquist1988a} used the maximum deflection observed in seismic data as the key boundary condition constraining their model, which does not account for the influence of thermal subsidence and therefore cannot successfully isolate the effects of lithospheric flexure. Attempting to improve upon the model of \cite{Nyquist1988a}, I instead converted current estimates of volcanic volume to a concentrated force on the lithosphere (Appendix). I take this to be a more accurate representation of MCR lithospheric flexure as it is not strictly based on seismically-observed deflection in the present day, which is likely the end result of combined flexural and thermal subsidence as well as a long-lived Grenvillian compressional event. Given the narrowness of the MCR structure (at least in comparison to other LIPs), a line load is probably a good appoximation. 
 
-\begin{wrapfigure}{l}{0.65\textwidth}
-\noindent\includegraphics[width=0.65\textwidth]{figures/flex_fig.pdf}
-\caption{\footnotesize{Flexural subsidence of the MCR assuming a line load equivalent to sedimentary and volcanic rock $\sim$20 km thick. Other parameters are available in the Appendix.}}
+\begin{wrapfigure}{l}{0.6\textwidth}
+\vspace{-10pt}
+\noindent\includegraphics[width=0.6\textwidth]{figures/flex_fig.pdf}
+\vspace{-20pt}
+\caption{\footnotesize{Flexural subsidence of the MCR assuming a line load equivalent to sedimentary and volcanic rock $\sim$20 km thick (max). Other parameters are available in the Appendix.}}
 \label{fig:flex_sub}
+\vspace{-40pt}
 \end{wrapfigure}
 
 However, the MCR's present narrow structure might not be representative of its pre-Grenville extent, and future models should test the effects of longer wavelength and laterally variable loads.\par
 
-My model also exhibits a flexural bulge nearly 0.5 km in height located $\sim$750 km from the center of the rift (Fig. \ref{fig:flex_sub}). Future analysis should test for potential correlation between this region of positive elevation -- which would be more susceptible to erosion -- with widespread unconformities in the MCR stratigraphy that are currently explained by a ``latent" stage of quiescent rift volcanism.
-
-
-
+My model also exhibits a flexural bulge nearly 200 m in height located $\sim$750 km from the center of the rift (Fig. \ref{fig:flex_sub}). Future analysis should test for potential correlation between this region of positive elevation -- which would be more susceptible to erosion -- with widespread unconformities in the MCR stratigraphy that are currently explained by a ``latent" stage of quiescent rift volcanism.\par
 
 \section{THERMAL SUBSIDENCE}
 \subsection{Previous Studies and Implications}
  
 The thermal subsidence of the MCR is highly dependent on mantle temperature since it is essentially a feature of conductive cooling of sublithospheric mantle beneath thinned crust. As significant cooling and subisidence in the region would likely have required the shutoff of tensional stresses or the relocation of the underlying mantle plume, thermal subsidence in the MCR is considered to be largely confined to the later stages of the rift. Using REE inversion techniques to estimate the changing melting depths and temperatures of distinct volcanic sequences in the MCR, \cite{White1997a} estimated the degree of lithospheric thinning at discrete intervals of rifting and suggested the plume source had disappeared by 1094 Ma. In accordance with the thermal subsidence model of \cite{McKenzie1978a}, \cite{White1997a} estimated a $\beta$ stretching factor of 6 in the MCR and elevated mantle temperatures of 1550\textdegree C during the main stage of rift volcanism. This $\beta$ value reconciles the observed subsidence from seismic data with the volcanic volume of the MCR determined by the plume temperature anomaly (Fig. \ref{fig:therm_sub}).\par
 
-\begin{figure}
+\begin{figure}[H]
 \noindent\includegraphics[width=\textwidth]{figures/general_thermal_sub.pdf}
+\vspace{-30pt}
 \caption{\footnotesize{Thermal subsidence curves shown for a range of $\beta$ stretching factors. \cite{White1997a} determined that a $\beta$ factor of 6 was most consistent with both the observed subsidence and the volcanic output of the MCR. The diagram above is based on the \cite{McKenzie1978a} stretching model but does not take into account crustal uplift from an upwelling mantle plume as the model of \cite{White1997a} does. The model above therefore illustrates the importance of initial uplift, as it requires at least 2 km to put the final subsidence value in the range estimated from seismic data (4-8 km).}}
 \label{fig:therm_sub}
 \end{figure}
@@ -136,15 +138,17 @@ The thermal subsidence of the MCR is highly dependent on mantle temperature sinc
 The duration and degree of thermal subsidence in the MCR is of particular importance because of the lack of current constraints on post-rift sedimentation. \cite{Ojakangas2001a} estimated $\sim$6-10 km of post-rift sedimentation between the Oronto and Bayfield Groups (including highly variable estimates of the Jacobsville Sandstone). The total thickness and provenance of sediment atop MCR volcanics is complicated by the Grenville orogeny, which was underway during or shortly after the end of rift volcanism \citep{Halls2015a}, reversing motion along syn-rift normal faults and interrupting thermal subsidence in the MCR. No comprehensive effort has been made to fully characterize sedimentary sequences in the MCR, and it would be somewhat difficult considering the lack of age constraints on these deposits (as well as the Grenville orogeny) and the largely interpretive aspect of deriving post-rift sediment thickness from seismic data. A comprehensive model of MCR thermal subsidence and the resulting sedimentary basin, when reconciled with future age constraints and seismic data, could largely benefit and clarify this discussion. Do current estimates of sediment thickness exceed what is expected from a thermal subsidence model? Could such discrepancies be explained by the sudden onset of a Grenville compressional regime?
 
 \section{DISCUSSION AND CONCLUSIONS}
+
+Summing the total flexural and thermal subsidence in the MCR gives a total deflection of $\sim$17 km (Fig. \ref{fig:combined_sub}). While this simple summation is likely an oversimplification of the combinatory effects of different kinds of subsidence, the final result is in approximate agreement with seismic data, which suggest a total lithospheric deflection of $\sim$20-30 km underneath the MCR \citep{Ojakangas2001a}. Subsidence of this scale, when considering the average thickness of MCR volcanic rock to be $\sim$5.8 km, would necessitate over 10 km of sedimentary infill. Such estimates from models similar to those presented here will be valuable for contextualizing future field measurements.\par
+
 \begin{wrapfigure}{l}{0.65\textwidth}
 \noindent\includegraphics[width=0.65\textwidth]{figures/combined_sub.pdf}
 \caption{\footnotesize{Simple summation of flexural and thermal subsidence models. While this is likely an oversimplification of the problem, the result is fairly similar to the $\sim$17 km of lithospheric deflection estimated from seismic data.}}
 \label{fig:combined_sub}
 \end{wrapfigure}
+The models above give estimates for long-term subsidence and do not account for changes to the overall stress regime. The subsidence estimates given in this paper could therefore provide a useful reference point for evaluating the timing and severity of the Grenville orogeny. On a broader scale, although this study has not caputured the full complexity of sedimentary basin development, it hopefully provides a unique view of MCR history through the perspective of its post-rift development.\par
 
-Summing the total flexural and thermal subsidence in the MCR gives a total deflection of $\sim$17 km. While this simple summation is likely an oversimplification of the combinatory effects of different kinds of subsidence, the final result is in approximate agreement with seismic data, which suggest a total lithospheric deflection of $\sim$20-30 km underneath the MCR \citep{Ojakangas2001a}. Subsidence of this scale, when considering the average thickness of MCR volcanic rock to be $\sim$5.8 km, would necessitate over 10 km of sedimentary infill (up to and above the maximum estimates of \cite{Ojakangas2001a}). Such estimates from models similar to those presented here will be valuable for contextualizing future field measurements.\par
-
-The models above give estimates for long-term subsidence and do not account for changes to the overall stress regime. The subsidence estimates given in this paper could therefore provide a useful reference point for evaluating the timing and severity of the Grenville orogeny. On a broader scale, although this study has not caputured the full complexity of sedimentary basin development, it hopefully provides a unique view of MCR history through the perspective of post-rift development. 
+\clearpage
 \section*{Appendix}
 A Jupyter/IPython notebook with developed code and further text can be viewed at \url{http://nbviewer.ipython.org/github/lfairchild/MCR_subsidence/blob/master/Code/Subsidence_model.ipynb} or directly downloaded from the GitHub repository at \url{https://github.com/lfairchild/MCR_subsidence/tree/master/Code}.
 
